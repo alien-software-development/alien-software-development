@@ -6,7 +6,7 @@
 <!-- DYNAMIC TYPING SVG -->
 <p align="center">
   <a href="https://aliensoftwaredevelopment.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=⚡+Enterprise+Desktop+Architecture+(C%23+%2F+.NET+8);🤖+Intelligent+Marketing+%26+WhatsApp+Automation;🏢+Hardware+%26+ZKTeco+Biometric+Synchronization;🌌+Creator+of+Tokyo+Night+PowerShell+Theme;🚀+Custom+Enterprise+Software+Consulting" alt="Typing Dynamic Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&height=45&lines=Enterprise+Desktop+Software+Architecture;Intelligent+WhatsApp+and+Marketing+Automation;Hardware+and+ZKTeco+Biometrics+Integration;Creator+of+Tokyo+Night+PowerShell+Theme;High-Performance+C%23+and+.NET+Solutions" alt="Typing Dynamic Animation" />
   </a>
 </p>
 
