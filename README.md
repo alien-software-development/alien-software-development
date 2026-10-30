@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- HEADER WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24,30&height=220&section=header&text=Alien%20Software%20Development&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Architecting%20Mission-Critical%20Desktop%20Software%20%7C%20Hardware%20Protocols%20%7C%20Enterprise%20Automation&descSize=14&descAlignY=62&descAlign=50" width="100%" alt="Alien Software Development Header" />
@@ -6,7 +6,7 @@
 <!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
   <a href="https://aliensoftwaredevelopment.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=750&height=45&lines=Enterprise+Desktop+Software+Architecture+(C%23+%2F+.NET+8);Hardware+Protocols+%26+ZKTeco+Biometric+Engines;Native+PE+Compilers+%26+Quantum+Polymorphic+Armor;High-Throughput+WhatsApp+%26+Marketing+Automation;Aesthetic+Tokyo+Night+Terminal+%26+DX+Environments" alt="Typing Dynamic Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=750&height=45&lines=Enterprise+Desktop+Software+Architecture+(C%23+%2F+.NET);Universal+Laboratory+LIS+Middleware+(HL7+MLLP+%2F+ASTM);Hardware+Protocols+%26+ZKTeco+Biometric+Engines;Native+PE+Compilers+%26+Quantum+Polymorphic+Armor;High-Throughput+WhatsApp+%26+Marketing+Automation" alt="Typing Dynamic Animation" />
   </a>
 </p>
 
@@ -169,6 +169,49 @@ Demonstration  : Live AnyDesk / TeamViewer Interactive Walkthrough Available Dai
       </p>
     </td>
   </tr>
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🔬 Alien LIS Middleware Pro</h3>
+        <a href="https://github.com/alien-software-development/alien-lis-client">
+          <img src="https://img.shields.io/badge/Laboratory-Universal_LIS_HL7-0ea5e9?style=flat-square&logo=windows&logoColor=white" />
+          <img src="https://img.shields.io/badge/Release-v2.5_PRO-2ea44f?style=flat-square&logo=github" />
+        </a>
+      </div>
+      <p>
+        Universal Laboratory Information System (LIS) Middleware for automated 3-part and 5-part hematology analyzers (Mindray, Sysmex, Dymind, KT-44, Rayto, URIT, Dirui, Genrui, Zybio, Abbott, Beckman). Seamlessly captures real-time HL7 MLLP (TCP/IP) and ASTM (RS-232 COM) telemetry, provides intelligent demographic status evaluation, syncs with hospital billing databases (Oracle, MSSQL, MySQL, SQLite), and generates clinical CBC & Dedicated Hemoglobin A4 reports with WBC/RBC/PLT histogram curves.
+      </p>
+      <ul>
+        <li>🧪 <strong>Universal Multi-Brand Interfacing:</strong> Sub-50ms HL7 MLLP socket listener & RS-232 serial engine.</li>
+        <li>🧬 <strong>Demographic Reference Ranges:</strong> Multi-tier age (South Asian notation) and gender-specific clinical status evaluation.</li>
+        <li>📦 <strong>100% Offline Standalone Setup:</strong> Bundled native SQLite interop (x86/x64) and pure managed enterprise drivers. Zero internet required.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/alien-software-development/alien-lis-client"><strong>Explore Repository & Releases »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⚡ Universal LIS Core Engine</h3>
+        <a href="https://github.com/alien-software-development/alien-lis-source">
+          <img src="https://img.shields.io/badge/Architecture-C%23_WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+          <img src="https://img.shields.io/badge/Security-Hardware_Locked-orange?style=flat-square&logo=shield" />
+        </a>
+      </div>
+      <p>
+        Full enterprise private source repository for Alien LIS Middleware Pro. Contains clinical HL7/ASTM communication layers, custom GDI+ graphical histogram rendering engines, hardware-locked cryptographic Machine ID licensing, and two-way external hospital database synchronization pipelines.
+      </p>
+      <ul>
+        <li>🛡️ <strong>Machine ID Licensing Engine:</strong> Cryptographic offline trial and permanent hardware-locked activations.</li>
+        <li>📊 <strong>Custom GDI+ Histogram Rendering:</strong> Real-time mathematical smoothing and threshold discrimination.</li>
+        <li>🔄 <strong>Enterprise Two-Way DB Bridge:</strong> Auto-populates patient demographics from hospital billing upon scan.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/alien-software-development/alien-lis-source"><strong>View Private Repository Specs »</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -265,6 +308,7 @@ Architectural Competencies & Engineering Standards:
 
 | Service | Architecture & Deliverables | Primary Use Case |
 | :--- | :--- | :--- |
+| **Universal LIS & Medical Middleware** | High-throughput HL7 v2.x MLLP & ASTM RS-232 analyzer interfacing, 2-way hospital DB sync, and automated A4 clinical reporting. | Clinical laboratories, diagnostic centers, hospital pathology wards. |
 | **Bespoke Desktop Applications** | Native C# .NET desktop software, WPF/XAML, offline persistence, high-DPI responsive layouts. | Enterprise management suites, client portals, offline kiosk terminals. |
 | **Hardware & Biometrics Hubs** | Direct TCP/IP socket drivers, ZKTeco attendance engines, barcode & thermal printer integration. | Timekeeping, automated payroll generation, biometric access security. |
 | **High-Throughput Automation** | Bulk messaging pipelines, Spintax processors, AI copywriting engines, custom Windows services. | Targeted customer dispatch, alert systems, automated business reporting. |
